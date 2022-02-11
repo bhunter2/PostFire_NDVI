@@ -1,4 +1,16 @@
 # Landslide_NDVI
 Final project for GEOG . Team members - Brooke Hunter and Jon Sheppard
 
-For this project, Jon and I will investigate landscape disturbance and vegetation dynamics. We plan to study a landslide that occurred in 2017 Florence, OR just southeast of Florence. We will use a time series of Landsat imagery prior to and after the landslide to look at the initial impact of and subsequent recovery after the disturbance. We will use NDVI as a proxy for vegetation health and coverage to complete a change detection analysis of vegetation. We plan on doing an image analysis to parse the landscape into bare and vegetated patches. @Brooke Hunter (she/her) plans to link this analysis to soil samples she has collected in both vegetated and unvegetated portions of the slide to do a soil carbon inventory (but maybe not in time for the end of the term...).
+Project Title - Vegetation Analysis of a Deep-seated landslide over time
+
+Team Members - Brooke Hunter and Jon Sheppard
+
+Summary - We will use a time series of Landsat imagery prior to and after the landslide to look at the initial impact of and subsequent recovery after the disturbance. We will use NDVI as a proxy for vegetation health and coverage to complete a change detection analysis of vegetation.
+
+Problem statement, question(s) and/or objective(s)
+Datasets you will use (with links, if available)
+Tools/packages you’ll need
+Planned methodology/approach
+Expected outcomes
+Any other relevant information, images/tables, references, etc.
+References
