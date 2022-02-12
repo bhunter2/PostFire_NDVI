@@ -11,13 +11,13 @@ Problem statement - Deep-seated Landslides move massive amount of material, jumb
 
 question(s) and/or objective(s) - How quickly (and where) does vegetation recover after landslides? We will use normalized differenced vegetation index (NDVI) to quantify vegetation recovery of a deep-seated landslide just south of Florence Oregon that occurred in 2017.
 
-Datasets you will use (with links, if available) 
+Datasets we will use -  Landsat imagery
 
-Tools/packages you’ll need
+Tools/packages we will use - pandas, geopandas, xarray, matplotlib
 
-Planned methodology/approach
+Planned methodology/approach - NDVI analysis from satellite imagery over time. Then maybe K means clustering for parsing landscape into vegetated and unvegetated. 
 
-Expected outcomes
+Expected outcomes - We will produce a percent vegetation cover of the landslide over time to track recovery after disturbance
 
 Any other relevant information, images/tables, references, etc.
 
