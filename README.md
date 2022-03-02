@@ -3,9 +3,9 @@ Final project for GEOG 590.
 
 Team members: Brooke Hunter and Jon Sheppard
 
-Project Title: Vegetation Analysis of a Deep-seated landslide over time
+Project Title: Vegetation analysis of fire affected region
 
-Summary: We will use a time series of Landsat imagery prior to and after the landslide to look at the initial impact of and subsequent recovery after the disturbance. We will use NDVI as a proxy for vegetation health and coverage to complete a change detection analysis of vegetation.
+Summary: To look at the initial impact of and subsequent vegetation recovery after  disturbance, we will use a time series of Landsat imagery prior to and after three fires in southwest Oregon. We will use NDVI as a proxy for vegetation health and coverage to complete a change detection analysis of vegetation. Furthermore, we will split our data into privately and publically managed lands to see the role land managment has on vegetation recovery.
 
 Problem statement: Deep-seated Landslides move massive amount of material, jumbling soil and vegetation as it fails. This causes changes not only to the topography of the landscape but increases the heterogeneity of soil thickness and vegetation.
 
