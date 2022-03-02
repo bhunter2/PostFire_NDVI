@@ -3,13 +3,15 @@ Final project for GEOG 590.
 
 Team members: Brooke Hunter and Jon Sheppard
 
-Project Title: Vegetation analysis of fire affected region
+Project Title: Vegetation analysis of fire affected region in the context of land management
 
-Summary: To look at the initial impact of and subsequent vegetation recovery after  disturbance, we will use a time series of Landsat imagery prior to and after three fires in southwest Oregon. We will use NDVI as a proxy for vegetation health and coverage to complete a change detection analysis of vegetation. Furthermore, we will split our data into privately and publically managed lands to see the role land managment has on vegetation recovery.
+Summary: To look at the initial impact of and subsequent vegetation recovery after disturbance, we will use a time series of Landsat imagery prior to and after three fires in southwest Oregon. We will use NDVI as a proxy for vegetation health and coverage to complete a change detection analysis of vegetation. Furthermore, we will split our data into privately and publically managed lands to see the role land managment has on vegetation recovery.
 
+__#Need to update#__
 Problem statement: Deep-seated Landslides move massive amount of material, jumbling soil and vegetation as it fails. This causes changes not only to the topography of the landscape but increases the heterogeneity of soil thickness and vegetation.
 
-Question(s) and/or Objective(s): How quickly (and where) does vegetation recover after landslides? We will use normalized differenced vegetation index (NDVI) to quantify vegetation recovery of a deep-seated landslide just south of Florence Oregon that occurred in 2017.
+
+Question(s) and/or Objective(s): How quickly (and where) does vegetation recover after wildfires? We will use normalized differenced vegetation index (NDVI) to quantify vegetation recovery of burn-scars that resulted from wildfires in 2013, 2017, and 2019.
 
 Datasets:  
 1. Landsat imagery (https://earthexplorer.usgs.gov/)
