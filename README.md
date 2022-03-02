@@ -14,6 +14,13 @@ Question(s) and/or Objective(s): How quickly (and where) does vegetation recover
 Datasets:  
 1. Landsat imagery (https://earthexplorer.usgs.gov/)
 2. OneDrive with the images used and land management tif: https://uoregon-my.sharepoint.com/:f:/g/personal/jsheppar_uoregon_edu/EpYdj0p_VN9CqwNEzg8yqScBjhU-bb_SwtWlBKwlxS-t4w?e=8cqHDd
+3. Land Status/BLM OR ownership (BLM arc services). To convert the data to a readable tiff we match color to ownership.
+- Orange: Bureau of Indian Affairs
+- Yellow: Bureau of Land Management
+- White: Private (we lumped all private companies together)
+- Blue: Oregon Department of Forestry
+- Gray: Josephine Country Forestry (local goverment)
+- Green: U.S. Forest Service
 
 Tools/packages we will use: pandas, geopandas, xarray, matplotlib
 
