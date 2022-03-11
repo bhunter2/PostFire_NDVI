@@ -32,11 +32,11 @@ Wildfire frequency and intensity has increased in recent years. In Oregon, a che
 **Outcomes and future work**: We will produced a percent vegetation cover of the landslide over time to track recovery after disturbance. In the future we can connect this to change detection data using a five year data set.
 
 **References**:
--Abatzoglou, J.T., Williams, A.P., 2016. Impact of anthropogenic climate change on wildfire across western US forests. Proc Natl Acad Sci USA 113, 11770–11775. https://doi.org/10.1073/pnas.1607171113
--Bright, B.C., Hudak, A.T., Kennedy, R.E., Braaten, J.D., Henareh Khalyani, A., 2019. Examining post-fire vegetation recovery with Landsat time series analysis in three western North American forest types. fire ecol 15, 8. https://doi.org/10.1186/s42408-018-0021-9
--DiBiase, R.A., Lamb, M.P., 2019. Dry sediment loading of headwater channels fuels post-wildfire debris flows in bedrock landscapes. Geology. https://doi.org/10.1130/G46847.1
--DiBiase, R.A., Lamb, M.P., 2013. Vegetation and wildfire controls on sediment yield in bedrock landscapes: SEDIMENT STORAGE BEHIND VEGETATION DAMS. Geophysical Research Letters 40, 1093–1097. https://doi.org/10.1002/grl.50277
--Hubbert, K.R., Wohlgemuth, P.M., Beyers, J.L., Narog, M.G., Gerrard, R., 2012. Post-Fire Soil Water Repellency, Hydrologic Response, and Sediment Yield Compared Between Grass-Converted and Chaparral Watersheds. Fire Ecology 8, 143–162. https://doi.org/10.4996/fireecology.0802143
--Roering, J.J., Gerber, M., 2005. Fire and the evolution of steep, soil-mantled landscapes. Geology 33, 349. https://doi.org/10.1130/G21260.1
--Zald, H.S.J., Dunn, C.J., 2018. Severe fire weather and intensive forest management increase 
+1. Abatzoglou, J.T., Williams, A.P., 2016. Impact of anthropogenic climate change on wildfire across western US forests. Proc Natl Acad Sci USA 113, 11770–11775. https://doi.org/10.1073/pnas.1607171113
+2. Bright, B.C., Hudak, A.T., Kennedy, R.E., Braaten, J.D., Henareh Khalyani, A., 2019. Examining post-fire vegetation recovery with Landsat time series analysis in three western North American forest types. fire ecol 15, 8. https://doi.org/10.1186/s42408-018-0021-9
+3. DiBiase, R.A., Lamb, M.P., 2019. Dry sediment loading of headwater channels fuels post-wildfire debris flows in bedrock landscapes. Geology. https://doi.org/10.1130/G46847.1
+4. DiBiase, R.A., Lamb, M.P., 2013. Vegetation and wildfire controls on sediment yield in bedrock landscapes: SEDIMENT STORAGE BEHIND VEGETATION DAMS. Geophysical Research Letters 40, 1093–1097. https://doi.org/10.1002/grl.50277
+5. Hubbert, K.R., Wohlgemuth, P.M., Beyers, J.L., Narog, M.G., Gerrard, R., 2012. Post-Fire Soil Water Repellency, Hydrologic Response, and Sediment Yield Compared Between Grass-Converted and Chaparral Watersheds. Fire Ecology 8, 143–162. https://doi.org/10.4996/fireecology.0802143
+6. Roering, J.J., Gerber, M., 2005. Fire and the evolution of steep, soil-mantled landscapes. Geology 33, 349. https://doi.org/10.1130/G21260.1
+7. Zald, H.S.J., Dunn, C.J., 2018. Severe fire weather and intensive forest management increase 
 
